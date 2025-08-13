@@ -34,9 +34,6 @@
 ## Demo Result
 - Total Score : 98 
 - Total Rank : 2 / 80 (2.5%)
-- No.1 * 3
-- No.2 * 3
-- 2nd_demo * 3
 
 | Lab                      | Demo | Rank | Score |
 |--------------------------|------|------|-------|
