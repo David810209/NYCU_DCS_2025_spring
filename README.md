@@ -27,7 +27,7 @@
 | Lab09 | AHB handshake                        | AHB handshake                                  |  1% |
 | Lab10 | FPGA                                 | FPGA                                           |  1% |
 | OT    | Enigma Machine                       | Enigma Machine                                 | 10% |
-| FP    | SoMCU/DSA Design                     | MCU System with CNN Accelerator                | 30% |
+| FP    | MCU/DSA Design                     | MCU System with CNN Accelerator                | 30% |
 | Mid/Final Exam|                              |                                             |15% each|
 --- 
 
