@@ -1,7 +1,7 @@
 # NYCU_DCS_2025_SPRING
 
 ## NYCU 2025 SPRING Digital Circuit and System (DCS)
-- 課程名稱 : 數位電路與喜統 Digital Circuit and System
+- 課程名稱 : 數位電路與系統 Digital Circuit and System
 - 修課學期 : 2025 SPRING
 
 ---
